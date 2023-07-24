@@ -1,0 +1,79 @@
+.bg-img{
+    background: url('../img/pngtree-online-meeting-discussion-illustration-background-picture-image_1178673.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 20px;
+}
+.bg-content{
+    padding: 150px 50px;
+    font-weight: bold;
+}
+.bg-content button{
+    color: white;
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    background-image: linear-gradient(to right, yellow, red);
+}
+.bg-content button:hover{
+    transform: scale(1.09);
+    transition: all .5s;
+}
+.bg-content button:active{
+    transform: scale(0.98);
+    transition: all .1s;
+}
+.service-Title-1{
+    margin: 50px 0px;
+    padding: 15px 0px;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(102, 184, 169), rgb(74, 179, 187));
+    color: white;
+}
+.service-1-content{
+    margin: 50px 0px;
+    padding: 0px 150px;
+}
+
+.service-1-content .content-wrapper{
+    border: 1px solid gainsboro;
+    text-align: center;
+    padding: 15px;
+    height: 240px;
+    margin-bottom: 20px;
+}
+.content-wrapper img{
+    width: 100px;
+}
+.content-wrapper h1{
+    font-weight: bold;
+    font-size: large;
+}
+.content-wrapper p{
+    font-size: small;
+}
+.content-wrapper:hover{
+    cursor: pointer;
+    background-color: rgb(100, 232, 241);
+    color: rgb(121, 6, 44);
+    transition: all .5s;
+    transform: scale(1.1);
+}
+.service-Title-2{
+    margin: 50px 0px;
+    padding: 15px 0px;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(102, 184, 169), rgb(74, 179, 187));
+    color: white;
+}
+.service-Title-3{
+    margin: 50px 0px;
+    padding: 15px 0px;
+    text-align: center;
+    background-image: linear-gradient(to right, rgb(74, 179, 187), rgb(109, 202, 113));
+    color: white;
+}
