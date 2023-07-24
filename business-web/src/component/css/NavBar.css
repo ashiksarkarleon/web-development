@@ -1,0 +1,30 @@
+.affix{
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+.nav-top-info{
+    padding: 20px 0px;
+}
+.nav-top-info div a{
+    display: flex;
+}
+.nav-top-info span{
+    font-size: 20px;
+}
+.nav-top-info p{
+    font-weight: bold;
+    padding-left: 10px;
+    color: rgb(55, 107, 7);
+
+}
+.navbar-brand{
+    font-size: medium;
+    font-weight: bold;
+}
+.navbar ul{
+    font-size: medium;
+}
+.navbar li:hover{
+    background-color: rgba(51, 129, 219, 0.507);
+}

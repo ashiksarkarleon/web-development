@@ -1,0 +1,34 @@
+.container{
+    margin-top: 20px;
+}
+button{
+    width: 250px;
+    height: 40px;
+    font-weight: bold;
+}
+.card{
+    width: 300px;
+    height: 200px;
+    margin: 10px 0px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+img{
+    width: 100px;
+}
+p{
+    padding-top: 10px;
+}
+.sk-card{
+    width: 300px;
+    margin: 10px 0px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid rgb(236, 234, 234);
+    text-align: center;
+}
+.sk-title{
+    padding-top: 10px;
+}
